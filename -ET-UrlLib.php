@@ -6,7 +6,7 @@ Description: If you make a custom menu item via a 'Link', starting the url with 
 Version: 1,9
 Author: JJ Rohrer
 Author URI: http://www.eleganttechnologies.com
-Depends:
+Depends: Page Links To,
 GitHub Plugin URI: https://github.com/jjrohrer/-ET-UrlLib
 */
 
