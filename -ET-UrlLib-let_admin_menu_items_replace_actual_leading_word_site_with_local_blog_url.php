@@ -18,7 +18,7 @@ function ET_let_amdin_menu_items_replace_actual_leading_word_site_with_local_blo
 //    print_r($args);
 //    print "</pre>";
     // usage: In
-    // atts['href'] will look like: http://site/ascpt_location
+    // atts['href'] will look like: http://site/etac_cpt_location
 
     $href = $atts;
     $shortcode = 'site/';

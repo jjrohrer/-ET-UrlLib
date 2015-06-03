@@ -10,7 +10,7 @@ add_filter( 'nav_menu_link_attributes', 'ET_let_menu_items_replace_actual_leadin
 
 function ET_let_menu_items_replace_actual_leading_word_site_with_local_blog_url( $atts, $item, $args ) {
     // usage: In
-    // atts['href'] will look like: http://site/ascpt_location
+    // atts['href'] will look like: http://site/etac_cpt_location
     $shortcode = 'site/';
     $prefix = 'http://';
     $needle = $prefix.$shortcode;
